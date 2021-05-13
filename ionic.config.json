@@ -1,0 +1,7 @@
+{
+  "name": "esLint",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
